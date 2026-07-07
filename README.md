@@ -18,6 +18,7 @@ I work where **speech research meets product**. By day I build [**Flowent**](htt
 |---|---|
 | [**Flowent**](https://getflowent.com) | AI speaking practice for language programs — live with 100+ learners |
 | [**react-native-tts-kit**](https://github.com/ahk-d/react-native-tts-kit) | On-device neural TTS for React Native / Expo · 31 languages · no keys, no network, no per-request bill |
+| [**speech-dataset-builder**](https://github.com/ahk-d/speech-dataset-builder) | One command turns YouTube, podcasts, or raw audio into training-ready TTS/ASR datasets — whisper transcription · speaker diarization · resumable & idempotent, like Git for speech data |
 | **Pronunciation ASR engine** | Constrained-decoding speech scoring for language practice |
 
 ### 🎓 Research
@@ -32,6 +33,7 @@ I work where **speech research meets product**. By day I build [**Flowent**](htt
 ![full-duplex](https://img.shields.io/badge/full--duplex_turn--taking-1a1a1a?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_on_real_data-1a1a1a?style=flat-square)
 ![multilingual](https://img.shields.io/badge/multilingual-1a1a1a?style=flat-square)
+![training data](https://img.shields.io/badge/training--data_pipelines-1a1a1a?style=flat-square)
 
 ---
 

@@ -37,5 +37,5 @@ I work where **speech research meets product**. By day I build [**Flowent**](htt
 
 <div align="center">
 <sub>Research where it matters · ship where it counts.</sub><br>
-<a href="https://getflowent.com">getflowent.com</a> &nbsp;·&nbsp; decoder314@gmail.com
+<a href="https://getflowent.com">getflowent.com</a> &nbsp;·&nbsp; ali.h.k.dulaimi@gmail.com
 </div>
